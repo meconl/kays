@@ -1,4 +1,8 @@
 bazi degisiklikler  yaptim
 remote da kodlar ekledim
 burada cakisma olacak
+
+
+mecoli branchi kod yazdi.
+
 diger dev kod yazdi
