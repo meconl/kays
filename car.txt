@@ -1,3 +1,4 @@
 bazi degisiklikler  yaptim
 remote da kodlar ekledim
 burada cakisma olacak
+diger dev kod yazdi
